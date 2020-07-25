@@ -1,0 +1,3 @@
+node_modules/
+.DS_Store
+#list things we want git to ignore
